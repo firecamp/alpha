@@ -21,5 +21,5 @@ public class SplashActivity extends Activity
 	}
 	
 	/** Time the splash screen is visible, in milliseconds. */
-	private static final int DELAY = 2000;
+	private static final int DELAY = 10;
 }

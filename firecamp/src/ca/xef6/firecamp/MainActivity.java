@@ -54,6 +54,21 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 		actionBar.setDisplayShowTitleEnabled(false);
 		actionBar.setDisplayUseLogoEnabled(true);
 		addTabs(actionBar);
+        viewPager_.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+        	 
+            @Override
+            public void onPageSelected(int position) {
+                actionBar.setSelectedNavigationItem(position);
+            }
+ 
+            @Override
+            public void onPageScrolled(int arg0, float arg1, int arg2) {
+            }
+ 
+            @Override
+            public void onPageScrollStateChanged(int arg0) {
+            }
+        });
 	}
 	
 	private void addTab(ActionBar actionBar, int labelId) {

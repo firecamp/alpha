@@ -407,7 +407,7 @@ containing a value of this type.
         public static final int logo=0x7f02003d;
     }
     public static final class id {
-        public static final int action_settings=0x7f05001e;
+        public static final int action_settings=0x7f050027;
         public static final int com_facebook_login_activity_progress_bar=0x7f05000b;
         public static final int com_facebook_picker_activity_circle=0x7f05000a;
         public static final int com_facebook_picker_checkbox=0x7f05000d;
@@ -428,16 +428,25 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_login_button=0x7f05001d;
         public static final int com_facebook_usersettingsfragment_logo_image=0x7f05001b;
         public static final int com_facebook_usersettingsfragment_profile_name=0x7f05001c;
+        public static final int customSizeView=0x7f050022;
         public static final int hybrid=0x7f050004;
         public static final int imageview_splash=0x7f050008;
         public static final int large=0x7f050006;
+        public static final int largerButton=0x7f050020;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
         public static final int pager=0x7f050007;
         public static final int picker_subtitle=0x7f050018;
+        public static final int presetSizeView=0x7f05001e;
+        public static final int profilepic=0x7f050024;
         public static final int satellite=0x7f050002;
+        public static final int sizeLabel=0x7f050021;
+        public static final int sizeToggle=0x7f050023;
         public static final int small=0x7f050005;
+        public static final int smallerButton=0x7f05001f;
+        public static final int squareCropToggle=0x7f050026;
         public static final int terrain=0x7f050003;
+        public static final int userbuttoncontainer=0x7f050025;
     }
     public static final class integer {
         public static final int google_play_services_version=0x7f070000;
@@ -464,6 +473,7 @@ containing a value of this type.
         public static final int fragment_map=0x7f030012;
         public static final int fragment_people=0x7f030013;
         public static final int fragment_profile=0x7f030014;
+        public static final int fragment_profile_picture_sample=0x7f030015;
     }
     public static final class menu {
         public static final int activity_main=0x7f0a0000;
