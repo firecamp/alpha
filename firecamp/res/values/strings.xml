@@ -8,5 +8,5 @@
     <string name="fragment_map">Map</string>
     <string name="fragment_people">People</string>
     <string name="fragment_profile">Profile</string>
-
+<string name="app_id">380615018626574</string>
 </resources>

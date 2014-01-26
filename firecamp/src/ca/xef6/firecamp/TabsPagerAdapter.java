@@ -21,7 +21,7 @@ public class TabsPagerAdapter extends FragmentPagerAdapter {
         case 2:
             return new PeopleFragment();
         case 3:
-        	return new ProfilePictureSampleFragment();
+        	return new SessionLoginFragment();
         }
         return null;
     }
