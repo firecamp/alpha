@@ -407,7 +407,7 @@ containing a value of this type.
         public static final int logo=0x7f02003d;
     }
     public static final class id {
-        public static final int action_settings=0x7f050029;
+        public static final int action_settings=0x7f05002b;
         public static final int buttonLoginLogout=0x7f05001f;
         public static final int com_facebook_login_activity_progress_bar=0x7f05000b;
         public static final int com_facebook_picker_activity_circle=0x7f05000a;
@@ -448,6 +448,8 @@ containing a value of this type.
         public static final int smallerButton=0x7f050021;
         public static final int squareCropToggle=0x7f050028;
         public static final int terrain=0x7f050003;
+        public static final int text1=0x7f050029;
+        public static final int text2=0x7f05002a;
         public static final int userbuttoncontainer=0x7f050027;
     }
     public static final class integer {
@@ -477,6 +479,7 @@ containing a value of this type.
         public static final int fragment_people=0x7f030014;
         public static final int fragment_profile=0x7f030015;
         public static final int fragment_profile_picture_sample=0x7f030016;
+        public static final int simple_list_item_2=0x7f030017;
     }
     public static final class menu {
         public static final int activity_main=0x7f0a0000;
